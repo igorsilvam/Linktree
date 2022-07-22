@@ -50,7 +50,7 @@ In the link below you will find the layout of the web/mobile project. Rememberin
 
 ## Contact
 
-<a href="url"><img src="https://avatars.githubusercontent.com/IgorSilvaMedeiros?size=100" height="auto" width="200" style="border-radius:50%"></a>
+<img align="left" src="https://avatars.githubusercontent.com/IgorSilvaMedeiros?size=100">
 
 Made with ❤️ by [Igor da Silva](https://github.com/IgorSilvaMedeiros), get in touch!
 
